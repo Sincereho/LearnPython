@@ -1,2 +1,2 @@
-Hu Xinxiang is learning Python
+Sincereho is learning Python
 This is my Python workspace 
