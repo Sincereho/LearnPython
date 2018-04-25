@@ -1,2 +1,2 @@
 Hu Xinxiang is learning Python
-This is my workspace 
+This is my Python workspace 
